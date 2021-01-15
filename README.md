@@ -1,5 +1,6 @@
 #mun_prototype
 #index.html
+#assets
 #page1.html
 #page2.html
 #page3.html
